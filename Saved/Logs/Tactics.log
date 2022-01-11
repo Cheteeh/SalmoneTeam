@@ -1044,3 +1044,74 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.11-16.56.12:957][591]LogContentValidation: Display: Validating World /Game/Maps/Map_Default.Map_Default
 [2022.01.11-16.56.13:173][617]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
 [2022.01.11-16.56.20:145][267]LogSlate: Took 0.003951 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.11-16.57.19:679][512]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.01.11-16.57.25:156][160]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/GM_Tactics.GM_Tactics
+[2022.01.11-16.57.25:683][160]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.01.11-16.57.26:486][160]LogSlate: The tab "Document" attempted to spawn in layout 'Standalone_BlueprintDefaults_Layout_v6' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.01.11-16.57.30:210][596]LogSlate: Window 'Document' being destroyed
+[2022.01.11-16.57.30:214][596]LogSlate: Window 'Document' being destroyed
+[2022.01.11-16.57.59:938][114]LogSlate: Window 'GM_Tactics' being destroyed
+[2022.01.11-16.57.59:943][114]LogSlate: Window 'GM_Tactics' being destroyed
+[2022.01.11-16.57.59:947][114]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-16.57.59:947][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-16.58.02:635][411]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.11-16.58.05:887][411]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.01.11-16.58.05:893][411]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.01.11-16.58.05:901][411]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.01.11-16.58.19:747][ 55]LogContentBrowser: Attempting asset rename: NewBlueprint -> PlayerController
+[2022.01.11-16.58.19:766][ 55]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.01.11-16.58.27:968][ 38]LogContentBrowser: Attempting asset rename: PlayerController -> PC_Tactics
+[2022.01.11-16.58.27:986][ 38]LogMetaData: Removing '/Game/Blueprint/PC_Tactics.PC_Tactics:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprint/PlayerController.PackageMetaData'
+[2022.01.11-16.58.27:986][ 38]LogMetaData: Removing '/Game/Blueprint/PC_Tactics.SKEL_PC_Tactics_C:UserConstructionScript' ref from Metadata '/Game/Blueprint/PlayerController.PackageMetaData'
+[2022.01.11-16.58.27:986][ 38]LogMetaData: Removing '/Game/Blueprint/PC_Tactics.SKEL_PC_Tactics_C' ref from Metadata '/Game/Blueprint/PlayerController.PackageMetaData'
+[2022.01.11-16.58.27:986][ 38]LogMetaData: Removing '/Game/Blueprint/PC_Tactics.PC_Tactics_C' ref from Metadata '/Game/Blueprint/PlayerController.PackageMetaData'
+[2022.01.11-16.58.27:986][ 38]LogMetaData: Removing '/Game/Blueprint/PC_Tactics.PC_Tactics:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprint/PlayerController.PackageMetaData'
+[2022.01.11-16.58.27:986][ 38]LogMetaData: Removing '/Game/Blueprint/PC_Tactics.PC_Tactics:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprint/PlayerController.PackageMetaData'
+[2022.01.11-16.58.28:003][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/PC_Tactics" FILE="../../../../Fork/SalmoneTeam/Content/Blueprint/PC_Tactics.uasset" SILENT=true
+[2022.01.11-16.58.28:006][ 38]LogSavePackage: Moving '../../../../Fork/SalmoneTeam/Saved/PC_TacticsBAFBA06640B0EEBD4E7394AFE9BC6640.tmp' to '../../../../Fork/SalmoneTeam/Content/Blueprint/PC_Tactics.uasset'
+[2022.01.11-16.58.28:086][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.01.11-16.58.28:109][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.01.11-16.58.28:123][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.01.11-16.58.28:145][ 38]AssetCheck: New page: Asset Save: PC_Tactics
+[2022.01.11-16.58.28:145][ 38]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/PC_Tactics.PC_Tactics
+[2022.01.11-16.58.29:047][146]LogEditorViewport: Clicking on Actor (CTRL LMB): Bp_Terrain_C (Bp_Terrain2)
+[2022.01.11-16.58.29:169][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_Default" FILE="../../../../Fork/SalmoneTeam/Content/Maps/Map_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.11-16.58.29:184][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.01.11-16.58.29:198][156]LogSavePackage: Moving '../../../../Fork/SalmoneTeam/Saved/Map_DefaultA923A73346CA75BC534946AA8C6CC6BD.tmp' to '../../../../Fork/SalmoneTeam/Content/Maps/Map_Default.umap'
+[2022.01.11-16.58.29:215][156]AssetCheck: New page: Asset Save: Map_Default
+[2022.01.11-16.58.29:215][156]LogContentValidation: Display: Validating World /Game/Maps/Map_Default.Map_Default
+[2022.01.11-16.58.29:652][205]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/PC_Tactics.PC_Tactics
+[2022.01.11-16.58.30:185][205]LogRenderer: Reallocating scene render targets to support 1208x744 Format 10 NumSamples 1 (Frame:1).
+[2022.01.11-16.58.34:270][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/PC_Tactics" FILE="../../../../Fork/SalmoneTeam/Content/Blueprint/PC_Tactics.uasset" SILENT=true
+[2022.01.11-16.58.34:272][668]LogSavePackage: Moving '../../../../Fork/SalmoneTeam/Saved/PC_TacticsAB5E54B845C6F137A1747BB4C25543D9.tmp' to '../../../../Fork/SalmoneTeam/Content/Blueprint/PC_Tactics.uasset'
+[2022.01.11-16.58.34:282][668]AssetCheck: New page: Asset Save: PC_Tactics
+[2022.01.11-16.58.34:282][668]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/PC_Tactics.PC_Tactics
+[2022.01.11-16.58.46:653][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/PC_Tactics" FILE="../../../../Fork/SalmoneTeam/Content/Blueprint/PC_Tactics.uasset" SILENT=true
+[2022.01.11-16.58.46:655][ 83]LogSavePackage: Moving '../../../../Fork/SalmoneTeam/Saved/PC_Tactics1CFBB1A84AEEE29CFE4DABBAD1A6D0F7.tmp' to '../../../../Fork/SalmoneTeam/Content/Blueprint/PC_Tactics.uasset'
+[2022.01.11-16.58.46:664][ 83]AssetCheck: New page: Asset Save: PC_Tactics
+[2022.01.11-16.58.46:664][ 83]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/PC_Tactics.PC_Tactics
+[2022.01.11-16.58.56:569][237]BlueprintLog: New page: Compile PC_Tactics
+[2022.01.11-16.58.56:597][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.01.11-16.58.56:620][237]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.11-16.58.57:021][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/PC_Tactics" FILE="../../../../Fork/SalmoneTeam/Content/Blueprint/PC_Tactics.uasset" SILENT=true
+[2022.01.11-16.58.57:024][280]LogSavePackage: Moving '../../../../Fork/SalmoneTeam/Saved/PC_Tactics659FAC0A475A39670816B48CF9E0906A.tmp' to '../../../../Fork/SalmoneTeam/Content/Blueprint/PC_Tactics.uasset'
+[2022.01.11-16.58.57:038][280]AssetCheck: New page: Asset Save: PC_Tactics
+[2022.01.11-16.58.57:038][280]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/PC_Tactics.PC_Tactics
+[2022.01.11-16.58.57:819][363]LogSlate: Window 'PC_Tactics' being destroyed
+[2022.01.11-16.58.57:828][363]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-16.58.57:828][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-16.59.05:552][265]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/GM_Tactics.GM_Tactics
+[2022.01.11-16.59.05:920][265]LogSlate: The tab "Document" attempted to spawn in layout 'Standalone_BlueprintDefaults_Layout_v6' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.01.11-16.59.07:315][425]LogSlate: Window 'Document' being destroyed
+[2022.01.11-16.59.07:319][425]LogSlate: Window 'Document' being destroyed
+[2022.01.11-16.59.10:668][814]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.11-16.59.10:683][814]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.11-16.59.13:501][130]BlueprintLog: New page: Compile GM_Tactics
+[2022.01.11-16.59.13:530][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.01.11-16.59.13:953][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/GM_Tactics" FILE="../../../../Fork/SalmoneTeam/Content/Blueprint/GM_Tactics.uasset" SILENT=true
+[2022.01.11-16.59.13:956][173]LogSavePackage: Moving '../../../../Fork/SalmoneTeam/Saved/GM_TacticsEB32FFDD45E0EB86D204AD9A7B0472DC.tmp' to '../../../../Fork/SalmoneTeam/Content/Blueprint/GM_Tactics.uasset'
+[2022.01.11-16.59.13:965][173]AssetCheck: New page: Asset Save: GM_Tactics
+[2022.01.11-16.59.13:965][173]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/GM_Tactics.GM_Tactics
+[2022.01.11-16.59.15:949][399]LogSlate: Window 'GM_Tactics' being destroyed
+[2022.01.11-16.59.15:956][399]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-16.59.15:956][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
