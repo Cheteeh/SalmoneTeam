@@ -5,3 +5,6 @@ Saved/Logs/Tactics-backup-2022.01.11-17.44.00.log
 *.ini
 
 *.log
+Intermediate/CachedAssetRegistry.bin
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/Config/Windows/Engine.ini
